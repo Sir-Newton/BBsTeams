@@ -6,7 +6,7 @@ export default function Home() {
 return (
 <div className="container">
     <Head>
-        <title>D3Teams with Links</title>
+        <title>Group 4 D3 Graphical Interactive Visualization with Links</title>
         <link rel="icon" href="/favicon.ico" />
     </Head>
 
