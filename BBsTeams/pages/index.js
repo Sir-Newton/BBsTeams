@@ -41,7 +41,7 @@ The first step was to input and load the dataset into python after which the nul
 Lastly, attributes that won’t be important in the course of our analysis were removed leaving the important features, For example, the attribute ‘Country’ was dropped since it is redundant with 100% exact same values of "United States" for all records. 'Postal Code' is also dropped since this attribute is less important towards the profit-centric task. The list of attributes/feature that are important for our analysis are as follows:
 
   
-    <h4 align="left">
+    <p align="left">
 City => City of residence of of the Customer.
 State => State of residence of the Customer.
 Region => Region where the Customer belong.
@@ -67,7 +67,7 @@ GIFT WIGBUDU
 B1153110
 Link to chart(line graph)
 
-              </h4>
+              </p>
                 
                 
     <a href="https://docs.google.com/spreadsheets/d/1vGWkF3vBHJc-kG7uIeD5_A6G43w50ISs/edit?rtpof=true"> Link to the dataset </a>
