@@ -11,14 +11,14 @@ return (
     </Head>
 
     <main>
-        <Header className="title" title="BBs Teams App!" />
+        <Header className="title" title="INTERACTIVE VISUALZATION GROUP ASSESMENT" />
         <p className="description">
-    <code>INTERACTIVE VISUALZATION GROUP ASSESMENT
+    <code> GROUP 4 INTERACTIVE VISUALZATION ASSESMENT
     </code>
     </p>
 
-           
-        GROUP 4 INTERACTIVE VISUALZATION ASSESMENT
+     <div id="mainbody" className>      
+       
         <h4>WHAT IS INTERACTIVE VISUALIZATION</h4>
         <p> 
             The technique of developing interactive visualizations to comprehend patterns, variances, and derive useful and meaningful 
@@ -76,6 +76,7 @@ return (
 
         <a href="https://docs.google.com/spreadsheets/d/1vGWkF3vBHJc-kG7uIeD5_A6G43w50ISs/edit?rtpof=true"> Link to the dataset </a>
         </p>
+    </div>
     </main>
 
     <Footer />
