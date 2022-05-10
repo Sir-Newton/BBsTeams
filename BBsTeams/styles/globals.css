@@ -59,7 +59,7 @@ code {
     order: 2;
 }
  */
- @media only screen and (max-width: 1164px)
+/*  @media only screen and (max-width: 1164px) */
 .card {
     flex-wrap: wrap;
     justify-content: space-around;
@@ -111,7 +111,7 @@ code {
  }
 
 .sky {
- color: rgb(105, 163, 178);
+ color: rgb(105, 163, 250);
 }
 .chart-paragraph {
   color: rgb(128, 0, 128);
@@ -124,10 +124,10 @@ code {
     padding-right: 9rem;
     line-height: 25px;
 } */
-p {
+/* p {
     font-size: 14px;
     color: blue;
-}
+} */
 /* user agent stylesheet
 p {
     display: block;
