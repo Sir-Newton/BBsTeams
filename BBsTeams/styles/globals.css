@@ -55,7 +55,7 @@ padding: 10px;
     justify-content: space-around;
 } */
 .card {
-    display: flex;
+/*     display: flex; */
     justify-content: space-between;
     margin-top: 4rem;
     margin-bottom: 4rem;
