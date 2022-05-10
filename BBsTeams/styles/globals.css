@@ -63,7 +63,7 @@ padding: 10px;
 }
 .widecard {
     padding: 10px;
-    border: 2px solid #fefefe;
+    border: 2px solid #fbfbfb;
     box-shadow: -1px 2px 5px #fefefe,  1px -2px 3px;
     border-radius: 10px;
     display: flex;
@@ -81,11 +81,23 @@ padding: 10px;
     padding: 15px;
     width: 20rem;
     margin-bottom: 2rem;
-    color: -webkit-link;
+    color: rgb(105, 163, 200);
     cursor: pointer;
     text-decoration: none;
 }
 
+.mediumcard {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 4px 10px 10px 2px #0702020d;
+    width: 30%;
+    border-radius: 10px;
+    padding: 10px;
+    width: 20rem;
+    margin-bottom: 2rem;
+    color: rgb(105, 163, 200);
+    cursor: pointer;
+    text-decoration: none;
+}
 .chart-title {
   color: rgb(128, 0, 128);
  }
