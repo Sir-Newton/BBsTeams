@@ -14,7 +14,7 @@ return (
    <div class="about-container">
     
      <p className="description" >
-    <h2 className="title"  align="center"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </h2>
+    <h2 className="title"  align="center"> INTERACTIVE VISUALIZATION </h2>
     </p>
     
     <div id="mainbody" class="widecard">  <br/> <br/> <br/> <br/> <br/>
