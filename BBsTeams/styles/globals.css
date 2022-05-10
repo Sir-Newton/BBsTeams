@@ -57,6 +57,16 @@ padding: 10px;
     margin-bottom: 4rem;
     padding-left: 2rem;
     padding-right: 2rem;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 14px 20px 20px 12px #0702020d;
+    width: 14%;
+    border-radius: 10px;
+    padding: 15px;
+    width: 20rem;
+    margin-bottom: 2rem
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 .chart-title {
