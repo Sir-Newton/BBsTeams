@@ -42,6 +42,15 @@ padding: 10px;
   align-items: center;
 }
 
+@media only screen and (max-width: 700px)
+.about-container {
+    width: 100%;
+}
+
+@media only screen and (max-width: 1164px)
+.about-container {
+    order: 2;
+}
 
  @media only screen and (max-width: 1164px)
 .card {
