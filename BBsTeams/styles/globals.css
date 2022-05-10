@@ -81,7 +81,6 @@ code {
     background: #ffffff 0% 0% no-repeat padding-box;
     box-shadow: 14px 20px 20px 12px #0702020d;
     border-radius: 10px;
-    padding: 15px;
     width: 22%; 
     margin-top: 4rem;
     margin-bottom: 4rem;
@@ -99,7 +98,6 @@ code {
     border-radius: 10px;
     padding: 10px;
     width: 20rem;
-    margin-bottom: 2rem;
     color: rgb(100, 103, 250);
     cursor: pointer;
     text-decoration: none;
