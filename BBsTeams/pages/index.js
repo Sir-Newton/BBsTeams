@@ -17,15 +17,7 @@ export default function Home() {
                 <h3 style="text-align: center;">GROUP 4 INTERACTIVE VISUALZATION ASSESMENT</h3>
                 <h4 style="text-align: center;">  </h4>
                 <h4 style="text-align: center;">WHAT IS INTERACTIVE VISUALIZATION</h4>
-                <h4>The technique of developing interactive visualizations to comprehend patterns, variances, and derive useful and meaningful 
-   
-    (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final ) and it about a 
-    superstore giant looking to understand which product, categories, regions and customer segment they focus on or be wary of. 
-    The dataset contains 9994 rows of records and 21 columns of attributes with no missing values.
-
-    
-    
-    </h4>
+                
                 <h4></h4>
                 <h4></h4>
                 
