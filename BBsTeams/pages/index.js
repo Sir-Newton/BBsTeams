@@ -63,8 +63,9 @@ return (
         
     OYEWALE OREDEIN  <br/>
         B1011452  <br/>
-        <a href="./teammates/Oyewale_Bar_Chart/index.html"> OyewaleBar Chart  </a>  <br/>
-            <a href="./BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Oyewale's Bar Chart </a>  <br/>
+        <a href="./teammates/Oyewale_Bar_Chart/index.html"> Oyewale Bar Chart  </a>  <br/>
+            <a href="./BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Oyewales Bar Chart </a>  <br/>
+    <a href="./BBsTeams/BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Oyewale's Bar Chart </a>  <br/>
 
         LIKHITA VADAPALLY  <br/>
         W9543325  <br/>
@@ -77,41 +78,28 @@ return (
             
             
             <div class="charts">
-            <a class="chart" href="./Stanley-B1204687/ICA.html">
+            <a class="chart" href="./Oyewale_Bar_Chart/index.html">
                 <div>
-                    <h4 class="chart-title">Lollipop Chart</h4>
-                    <p class="chart-paragraph">Name: Stanley Osondu</p>
-                    <p class="chart-paragraph">Student Number: B1161681</p>
+                    <h4 class="chart-title">Bar Chart</h4>
+                    <p class="chart-paragraph">Name: OYEWALE OREDEIN</p>
+                    <p class="chart-paragraph">Student Number: B1011452</p>
                 </div>
             </a>
             <a class="chart" href="./GodspowerWodi-B1257513/index.html">
                 <div>
-                    <h4 class="chart-title">Area Chart</h4>
-                    <p class="chart-paragraph">Name: Godspower Wodi</p>
-                    <p class="chart-paragraph">Student Number: B1257513</p>
+                    <h4 class="chart-title">Circular Bar Chart</h4>
+                    <p class="chart-paragraph">Name: LIKHITA VADAPALLY </p>
+                    <p class="chart-paragraph">Student Number: W9543325</p>
                 </div>
             </a>
             <a class="chart" href="./Rita-B1161681/ica.html">
                 <div>
-                    <h4 class="chart-title">Bar/Pie Chart</h4>
-                    <p class="chart-paragraph">Name: Rita Ozoh</p>
-                    <p class="chart-paragraph">Student Number: B1161681</p>
+                    <h4 class="chart-title">Line Graph</h4>
+                    <p class="chart-paragraph">Name: GIFT WIGBUDU</p>
+                    <p class="chart-paragraph">Student Number: B1153110</p>
                 </div>
             </a>
-            <a class="chart" href="./Olaide-A0137168/index.html">
-                <div>
-                    <h4 class="chart-title">Chained Chart</h4>
-                    <p class="chart-paragraph">Name: Olaide Olanipekun</p>
-                    <p class="chart-paragraph">Student Number: A0137168</p>
-                </div>
-            </a>
-            <a class="chart" href="./Seyi-A0308843/myica.html">
-                <div>
-                    <h4 class="chart-title">Connected Scatter plot</h4>
-                    <p class="chart-paragraph">Name: Oluseyi Olukola</p>
-                    <p class="chart-paragraph">Student Number: A0308843</p>
-                </div>
-            </a>
+           
         </div>
         <div class="scrum-link">
             <h3>Want to view the planning process?</h3>
