@@ -53,7 +53,7 @@ return (
             Sales => Sales of the Product.  <br/>
             Quantity => Quantity of the Product.  <br/>
             Discount => Discount provided.  <br/>
-            Profit => Profit/Loss incurred. <br>
+            Profit => Profit/Loss incurred. <br/>
 
         <h4 align="center"> THE CHARTS </h4>
         STUDENT NAME: (not needed but as a guide)  <br/>
