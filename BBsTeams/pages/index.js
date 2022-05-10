@@ -42,7 +42,7 @@ Lastly, attributes that won’t be important in the course of our analysis were 
 
   
     <p align="left">
-City => City of residence of of the Customer.\n
+City => City of residence of of the Customer./n
 State => State of residence of the Customer.
 Region => Region where the Customer belong.
 Category => Category of the product ordered.
