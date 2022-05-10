@@ -97,6 +97,10 @@ padding: 10px;
     color: rgb(105, 163, 200);
     cursor: pointer;
     text-decoration: none;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 .chart-title {
   color: rgb(128, 0, 128);
