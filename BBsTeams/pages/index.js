@@ -10,23 +10,21 @@ return (
         <link rel="icon" href="/favicon.ico" />
     </Head>
 
-    <main>
-    
-     
-   <div class="about-container">
+    <main>     
+   <div class="about-container">      
         
-        
-   
-    
+      
 
      <div id="mainbody" className="widecard">      
     
     
-    <h2 className="title"  align="center"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </h2>
+    <h2 align="center" className="sky"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </h2>
     
     <p>
-    <h2 align="center" className="sky"> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h2>
+    <h3 align="center" className="sky"> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h3>
     </p>
+    
+    
        <p class="mediumcard"> 
         <h4 align="center" className="sky">WHAT IS INTERACTIVE VISUALIZATION</h4>
         
