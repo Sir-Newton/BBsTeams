@@ -13,7 +13,7 @@ return (
     <main>     
    <div class="about-container">
     
-     <p ><br/> <br/><br/>
+     <p className="description"><br/> <br/><br/><br/> <br/><br/>
     <h2 className="title"  align="center"> INTERACTIVE VISUALIZATION </h2>
     </p>
     
