@@ -11,14 +11,14 @@ return (
     </Head>
 
     <main>
-        <Header className="title" title="INTERACTIVE VISUALIZATION GROUP ASSESMENT" />
-        <p className="description">
+        <Header className="title"  align="center" title="INTERACTIVE VISUALIZATION GROUP ASSESMENT" />
+        <p>
     <h2> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h2>
     </p>
 
      <div id="mainbody" className="card">      
        
-        <h4>WHAT IS INTERACTIVE VISUALIZATION</h4>
+        <h4 align="center">WHAT IS INTERACTIVE VISUALIZATION</h4>
         <p> 
             The technique of developing interactive visualizations to comprehend patterns, variances, and derive useful and meaningful 
             insights from data is known as data visualization. <br/> Data visualization is primarily used for data cleansing, exploration, and discovery, as 
@@ -29,8 +29,8 @@ return (
 
         <h4 align="center">THE DATASET</h4>
         <p>The Superstore dataset was gotten from  
-            <a href="https://docs.google.com/spreadsheets/d/1vGWkF3vBHJc-kG7uIeD5_A6G43w50ISs/edit?rtpof=true"> Kaggle </a>
-            (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final ) and it about a 
+            <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final"> Kaggle </a>
+            and it about a 
             superstore giant looking to understand which product, categories, regions and customer segment they focus on or be wary of. 
             The dataset contains 9994 rows of records and 21 columns of attributes with no missing values.
         </p>
@@ -55,8 +55,10 @@ return (
             Quantity => Quantity of the Product.  <br/>
             Discount => Discount provided.  <br/>
             Profit => Profit/Loss incurred. <br/>
- 
-                with the modified dataset at <a href="BBsTeams/teammates/superstore_DATASET.xlsx"> superstore_DATASET.xlsx </a> <br/>
+
+   
+            Find the preprocessed dataset at <a href="BBsTeams/teammates/superstore_DATASET.xlsx"> superstore_DATASET.xlsx </a> <br/>
+                
         <h4 align="center"> THE CHARTS </h4>
     <p align="left">  
                   
@@ -83,18 +85,15 @@ return (
                     <p class="chart-paragraph">Student Number: B1153110</p>
                 </div>
             </a>
-           <a class="card" href="./BBsTeams/superstore_DATASET.xlsx"> Data Set </a>
     
         </div>
         <div class="scrum-link">
-            <h3>Want to view the planning process?</h3>
-            <p>Click on the link below to view the scrum process carried out</p>
+            <h3 align="center"> Scrum Documentation </h3>
+<p>To view the entire planning process, click the link below</p>
             <a href="https://docs.google.com/spreadsheets/d/1owUIFHjrN1pRiAGGPRhX84ZkpYWh56y_/edit#gid=1392942190">Scrum </a>
         </div>
 <br/><br/><br/>
 
-
-        <a href="https://docs.google.com/spreadsheets/d/1vGWkF3vBHJc-kG7uIeD5_A6G43w50ISs/edit?rtpof=true"> Link to the dataset </a>
         </p>
     </div>
     </main>
