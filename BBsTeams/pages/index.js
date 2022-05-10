@@ -59,25 +59,10 @@ return (
                 with the modified dataset at <a href="BBsTeams/teammates/superstore_DATASET.xlsx"> superstore_DATASET.xlsx </a> <br/>
         <h4 align="center"> THE CHARTS </h4>
     <p align="left">  
-        
-    OYEWALE OREDEIN  <br/>
-        B1011452  <br/>
-        <a href="./teammates/Oyewale_Bar_Chart/index.html"> Oyewale Bar Chart  </a>  <br/>
-            <a href="./BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Oyewales Bar Chart </a>  <br/>
-    <a href="./BBsTeams/BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Oyewale's Bar Chart </a>  <br/>
-
-        LIKHITA VADAPALLY  <br/>
-        W9543325  <br/>
-        Link to chart (circular bar chart) <br/>
-
-        GIFT WIGBUDU <br/>
-        B1153110  <br/>
-        Link to chart(line graph)  <br/>
-
-            
+                  
             
             <div class="card">
-            <a class="card" href="./Oyewale_Bar_Chart/index.html">
+            <a class="card" href="https://oyewalesbarchart.netlify.app">
                 <div>
                     <h4 class="chart-title">Bar Chart</h4>
                     <p class="chart-paragraph">Name: OYEWALE OREDEIN</p>
@@ -100,13 +85,6 @@ return (
             </a>
            <a class="card" href="./BBsTeams/superstore_DATASET.xlsx"> Data Set </a>
     
-    
-     <a class="card" href="./BBsTeams/pages/Oyewale_Bar_Chart/index.html"> Link 1 </a>
-     <a class="card" href="./BBsTeams/BBsTeams/pages/Oyewale_Bar_Chart/index.html"> Link 2 </a>
-     <a class="card" href="/BBsTeams/pages/Oyewale_Bar_Chart/index.html"> Link 3 </a>
-     <a class="card" href="https://github.com/Sir-Newton/BBsTeams/blob/16abd063beb56bb8cd30337f776ea003e338e770/BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Link 4 </a>
-     <a class="card" href="BBsTeams/pages/Oyewale_Bar_Chart/index.html"> Link 5 </a>
-     <a class="card" href="/BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Link 6 </a>
         </div>
         <div class="scrum-link">
             <h3>Want to view the planning process?</h3>
