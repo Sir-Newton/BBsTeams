@@ -53,9 +53,10 @@ return (
             Quantity => Quantity of the Product.  <br/>
             Discount => Discount provided.  <br/>
             Profit => Profit/Loss incurred. <br/>
-
+</p>
         <h4 align="center"> THE CHARTS </h4>
-        YEWALE OREDEIN  <br/>
+    <p align="left">   
+    YEWALE OREDEIN  <br/>
         B1011452  <br/>
         (link to the chart) (bar chart)  <br/>
 
