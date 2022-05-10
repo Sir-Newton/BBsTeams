@@ -98,8 +98,9 @@ return (
         </div>
         <div className="scrum-link">
             <h3 className="sky" align="center"> SCRUM DOCUMENTATION </h3>
-<p align="center">To view the entire planning process, click the link below</p>
+<p align="center">To view the entire planning process, click the link below
             <a href="https://docs.google.com/spreadsheets/d/1owUIFHjrN1pRiAGGPRhX84ZkpYWh56y_/edit#gid=1392942190">Scrum </a>
+    </p>
         </div>
 <br/><br/><br/>
 
