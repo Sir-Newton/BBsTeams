@@ -76,7 +76,7 @@ return (
                     <p class="chart-paragraph">Student Number: W9543325</p>
                 </div>
             </a>
-            <a class="card" href="./BBsTeams/superstore_DATASET.xlsx">
+            <a class="card" href="https://giftwigbuduslinechart.netlify.app/">
                 <div>
                     <h4 class="chart-title">Line Graph</h4>
                     <p class="chart-paragraph">Name: GIFT WIGBUDU</p>
