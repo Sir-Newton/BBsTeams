@@ -42,16 +42,16 @@ Lastly, attributes that won’t be important in the course of our analysis were 
 
   
     <p align="left">
-City => City of residence of of the Customer./n
-State => State of residence of the Customer.
-Region => Region where the Customer belong.
-Category => Category of the product ordered.
-Sub-Category => Sub-Category of the product ordered.
-Product Name => Name of the Product
-Sales => Sales of the Product.
-Quantity => Quantity of the Product.
-Discount => Discount provided.
-Profit => Profit/Loss incurred.
+City => City of residence of of the Customer. <br>
+State => State of residence of the Customer. <br>
+Region => Region where the Customer belong. <br>
+Category => Category of the product ordered. <br>
+Sub-Category => Sub-Category of the product ordered. <br>
+Product Name => Name of the Product. <br>
+Sales => Sales of the Product. <br>
+Quantity => Quantity of the Product. <br>
+Discount => Discount provided. <br>
+Profit => Profit/Loss incurred. <br>
 
 <h4 align="center"> THE CHARTS </h4>
 STUDENT NAME: (not needed but as a guide)
@@ -59,7 +59,7 @@ OYEWALE OREDEIN
 B1011452
 (link to the chart) (bar chart)
 
-LIKHITA VADAPALLY
+LIKHITA VADAPALLY <br>
 W9543325
 Link to chart (circular bar chart)
 
