@@ -14,14 +14,19 @@ return (
     
      
    <div class="about-container">
-        <div className="title"  align="center"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </div>
+        
         
    
+    
+
+     <div id="mainbody" className="widecard">      
+    
+    
+    <h2 className="title"  align="center"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </h2>
+    
     <p>
     <h2 align="center" className="sky"> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h2>
     </p>
-
-     <div id="mainbody" className="widecard">      
        <p class="mediumcard"> 
         <h4 align="center" className="sky">WHAT IS INTERACTIVE VISUALIZATION</h4>
         
