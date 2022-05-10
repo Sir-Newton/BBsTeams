@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div className="container">
+    <div className="container" padding="10px">
       <Head>
         <title>D3Teams with Links</title>
         <link rel="icon" href="/favicon.ico" />
