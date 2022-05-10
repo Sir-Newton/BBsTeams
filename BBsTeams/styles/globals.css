@@ -48,7 +48,7 @@ padding: 10px;
     flex-wrap: wrap;
     justify-content: space-around;
 }
-.card {
+.widecard {
     padding: 10px;
     border: 2px solid #fefefe;
     box-shadow: -1px 2px 5px #fefefe,  1px -2px 3px;
@@ -59,6 +59,8 @@ padding: 10px;
     margin-bottom: 4rem;
     padding-left: 2rem;
     padding-right: 2rem;
+}
+  .card {
     background: #ffffff 0% 0% no-repeat padding-box;
     box-shadow: 14px 20px 20px 12px #0702020d;
     width: 14%;
