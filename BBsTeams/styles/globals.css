@@ -58,3 +58,15 @@ padding: 10px;
     padding-left: 2rem;
     padding-right: 2rem;
 }
+
+.chart-title {
+  color: #aaaf25;
+  
+}
+
+.sky {
+ color: -webkit-link;
+}
+.chart-paragraph {
+  color: #adfe25;
+}
