@@ -30,11 +30,41 @@ export default function Home() {
     (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final ) and it about a 
     superstore giant looking to understand which product, categories, regions and customer segment they focus on or be wary of. 
     The dataset contains 9994 rows of records and 21 columns of attributes with no missing values.
- <p width="640">
+ </p>
     
     
     
-                <h4></h4>
+                <h4 align="center">DATA PREPROCESSING </h4>
+Data pre-processing is a data mining technique that transforms raw data into an understandable format. It includes data cleaning, reduction, and transformation.
+The python 3 IDE was employed in the pre-processing of the data.
+The first step was to input and load the dataset into python after which the null values within the dataset was checked but none was found. For the next step, unique () is used to check qualitative data for noises of impossible values such as incorrect misspelt data entries, or errors of inconsistent data such as not comparable numerical measurement formats and data types.
+Lastly, attributes that won’t be important in the course of our analysis were removed leaving the important features, For example, the attribute ‘Country’ was dropped since it is redundant with 100% exact same values of "United States" for all records. 'Postal Code' is also dropped since this attribute is less important towards the profit-centric task. The list of attributes/feature that are important for our analysis are as follows:
+
+City => City of residence of of the Customer.
+State => State of residence of the Customer.
+Region => Region where the Customer belong.
+Category => Category of the product ordered.
+Sub-Category => Sub-Category of the product ordered.
+Product Name => Name of the Product
+Sales => Sales of the Product.
+Quantity => Quantity of the Product.
+Discount => Discount provided.
+Profit => Profit/Loss incurred.
+
+<h4 align="center"> THE CHARTS <h4 align="center">
+STUDENT NAME: (not needed but as a guide)
+OYEWALE OREDEIN
+B1011452
+(link to the chart) (bar chart)
+
+LIKHITA VADAPALLY
+W9543325
+Link to chart (circular bar chart)
+
+GIFT WIGBUDU
+B1153110
+Link to chart(line graph)
+
                 <h4></h4>
                 
                 
