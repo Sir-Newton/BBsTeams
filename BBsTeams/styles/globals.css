@@ -20,6 +20,10 @@ main {
   align-items: center;
 }
 
+div {
+    display: block;
+}
+
 code {
   background: #fafafa;
   border-radius: 5px;
