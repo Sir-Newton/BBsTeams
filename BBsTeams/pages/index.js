@@ -35,9 +35,9 @@ export default function Home() {
     
     
                 <h4 align="center">DATA PREPROCESSING </h4>
-Data pre-processing is a data mining technique that transforms raw data into an understandable format. It includes data cleaning, reduction, and transformation.
+Data pre-processing is a data mining technique that transforms raw data into an understandable format.  <br/> It includes data cleaning, reduction, and transformation.
 The python 3 IDE was employed in the pre-processing of the data.
-The first step was to input and load the dataset into python after which the null values within the dataset was checked but none was found. For the next step, unique () is used to check qualitative data for noises of impossible values such as incorrect misspelt data entries, or errors of inconsistent data such as not comparable numerical measurement formats and data types.
+The first step was to input and load the dataset into python after which the null values within the dataset was checked but none was found.  <br/> For the next step, unique () is used to check qualitative data for noises of impossible values such as incorrect misspelt data entries, or errors of inconsistent data such as not comparable numerical measurement formats and data types.
 Lastly, attributes that won’t be important in the course of our analysis were removed leaving the important features, For example, the attribute ‘Country’ was dropped since it is redundant with 100% exact same values of "United States" for all records. 'Postal Code' is also dropped since this attribute is less important towards the profit-centric task. The list of attributes/feature that are important for our analysis are as follows:
 
   
@@ -54,18 +54,18 @@ Discount => Discount provided.  <br/>
 Profit => Profit/Loss incurred. <br>
 
 <h4 align="center"> THE CHARTS </h4>
-STUDENT NAME: (not needed but as a guide) <br>
-OYEWALE OREDEIN <br>
-B1011452 <br>
-(link to the chart) (bar chart) <br>
+STUDENT NAME: (not needed but as a guide)  <br/>
+OYEWALE OREDEIN  <br/>
+B1011452  <br/>
+(link to the chart) (bar chart)  <br/>
 
-LIKHITA VADAPALLY <br>
-W9543325 <br>
-Link to chart (circular bar chart) <br>
+LIKHITA VADAPALLY  <br/>
+W9543325  <br/>
+Link to chart (circular bar chart) <br/>
 
-GIFT WIGBUDU <br>
-B1153110 <br>
-Link to chart(line graph) <br>
+GIFT WIGBUDU <br/>
+B1153110  <br/>
+Link to chart(line graph)  <br/>
 
               </p>
                 
