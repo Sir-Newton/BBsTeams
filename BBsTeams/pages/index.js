@@ -20,9 +20,9 @@ return (
     </p>
 
      <div id="mainbody" className="widecard">      
-       
+       <p> 
         <h4 align="center">WHAT IS INTERACTIVE VISUALIZATION</h4>
-        <p> 
+        
             The technique of developing interactive visualizations to comprehend patterns, variances, and derive useful and meaningful 
             insights from data is known as data visualization. <br/> Data visualization is primarily used for data cleansing, exploration, and discovery, as 
             well as for conveying outcomes to Business stakeholders. <br/> It can be used as a tool for data pre-processing as well as gaining insights into the data. 
@@ -30,8 +30,9 @@ return (
             we will be discussing business insights that can be drawn from the data gotten from a Superstore Giant in the United States of America.
         </p>
 
-        <h4 className="sky" align="center">THE DATASET</h4>
-        <p>The Superstore dataset was gotten from  
+        <p> 
+    <h4 className="sky" align="center">THE DATASET</h4>
+       The Superstore dataset was gotten from  
             <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final"> Kaggle </a>
             and it about a 
             superstore giant looking to understand which product, categories, regions and customer segment they focus on or be wary of. 
@@ -39,7 +40,7 @@ return (
         </p>
 
 
-
+<p>
         <h4 align="center" className="sky">DATA PREPROCESSING </h4>
         Data pre-processing is a data mining technique that transforms raw data into an understandable format.  <br/> It includes data cleaning, reduction, and transformation.
         The python 3 IDE was employed in the pre-processing of the data.
@@ -61,7 +62,8 @@ return (
 
    
             Find the preprocessed dataset at <a href="https://drive.google.com/file/d/1vGWkF3vBHJc-kG7uIeD5_A6G43w50ISs/view"> Superstore DATASET </a> <br/>
-         </div>       
+        </p>
+    </div>       
         <h4 align="center" className="sky"> THE CHARTS </h4>
     <p align="left">  
                   
