@@ -17,7 +17,7 @@ return (
     </code>
     </p>
 
-     <div id="mainbody" className>      
+     <div id="mainbody" className="card">      
        
         <h4>WHAT IS INTERACTIVE VISUALIZATION</h4>
         <p> 
