@@ -59,7 +59,7 @@ return (
 
         <h4 align="center"> THE CHARTS </h4>
     <p align="left">  
-        <a href="./BBsTeams/teammates/Oyewale - Bar-chart/index.html"> Oyewale </a>
+        <a href="./teammates/Oyewale_Bar_Chart/index.html"> Oyewale </a>
     OYEWALE OREDEIN  <br/>
         B1011452  <br/>
         (link to the chart) (bar chart)  <br/>
