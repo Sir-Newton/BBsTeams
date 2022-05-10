@@ -16,7 +16,6 @@ return (
 
             GROUP 4 INTERACTIVE VISUALZATION ASSESMENT
         </p>
-        <h4 >  </h4>
         <h4 align="center">WHAT IS INTERACTIVE VISUALIZATION</h4>
         <p> 
             The technique of developing interactive visualizations to comprehend patterns, variances, and derive useful and meaningful 
@@ -56,8 +55,7 @@ return (
             Profit => Profit/Loss incurred. <br/>
 
         <h4 align="center"> THE CHARTS </h4>
-        STUDENT NAME: (not needed but as a guide)  <br/>
-        OYEWALE OREDEIN  <br/>
+        YEWALE OREDEIN  <br/>
         B1011452  <br/>
         (link to the chart) (bar chart)  <br/>
 
