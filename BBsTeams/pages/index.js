@@ -27,7 +27,7 @@ return (
             we will be discussing business insights that can be drawn from the data gotten from a Superstore Giant in the United States of America.
         </p>
 
-        <h4 align="center">THE DATASET</h4>
+        <h4 className="sky" align="center">THE DATASET</h4>
         <p>The Superstore dataset was gotten from  
             <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final"> Kaggle </a>
             and it about a 
@@ -37,7 +37,7 @@ return (
 
 
 
-        <h4 align="center">DATA PREPROCESSING </h4>
+        <h4 align="center" className="sky">DATA PREPROCESSING </h4>
         Data pre-processing is a data mining technique that transforms raw data into an understandable format.  <br/> It includes data cleaning, reduction, and transformation.
         The python 3 IDE was employed in the pre-processing of the data.
         The first step was to input and load the dataset into python after which the null values within the dataset was checked but none was found.  <br/> For the next step, unique () is used to check qualitative data for noises of impossible values such as incorrect misspelt data entries, or errors of inconsistent data such as not comparable numerical measurement formats and data types.
@@ -59,26 +59,26 @@ return (
    
             Find the preprocessed dataset at <a href="https://drive.google.com/file/d/1vGWkF3vBHJc-kG7uIeD5_A6G43w50ISs/view"> Superstore DATASET </a> <br/>
                 
-        <h4 align="center"> THE CHARTS </h4>
+        <h4 align="center" className="sky"> THE CHARTS </h4>
     <p align="left">  
                   
             
             <div class="card">
-            <a class="card" href="https://oyewalesbarchart.netlify.app">
+            <a className="card" href="https://oyewalesbarchart.netlify.app">
                 <div>
                     <h4 class="chart-title">Bar Chart</h4>
                     <p class="chart-paragraph">Name: OYEWALE OREDEIN</p>
                     <p class="chart-paragraph">Student Number: B1011452</p>
                 </div>
             </a>
-            <a class="card" href="https://likhitavadapalycircularbarchart.netlify.app/">
+            <a className="card" href="https://likhitavadapalycircularbarchart.netlify.app/">
                 <div>
                     <h4 class="chart-title">Circular Bar Chart</h4>
                     <p class="chart-paragraph">Name: LIKHITA VADAPALLY </p>
                     <p class="chart-paragraph">Student Number: W9543325</p>
                 </div>
             </a>
-            <a class="card" href="https://giftwigbuduslinechart.netlify.app/">
+            <a className="card" href="https://giftwigbuduslinechart.netlify.app/">
                 <div>
                     <h4 class="chart-title">Line Graph</h4>
                     <p class="chart-paragraph">Name: GIFT WIGBUDU</p>
@@ -87,8 +87,8 @@ return (
             </a>
     
         </div>
-        <div class="scrum-link">
-            <h3 align="center"> Scrum Documentation </h3>
+        <div className="scrum-link">
+            <h3 className="sky" align="center"> SCRUM DOCUMENTATION </h3>
 <p>To view the entire planning process, click the link below</p>
             <a href="https://docs.google.com/spreadsheets/d/1owUIFHjrN1pRiAGGPRhX84ZkpYWh56y_/edit#gid=1392942190">Scrum </a>
         </div>
