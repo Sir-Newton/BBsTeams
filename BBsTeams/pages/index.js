@@ -11,9 +11,9 @@ return (
     </Head>
 
     <main>
-        <Header className="title" title="INTERACTIVE VISUALZATION GROUP ASSESMENT" />
+        <Header className="title" title="INTERACTIVE VISUALIZATION GROUP ASSESMENT" />
         <p className="description">
-    <code> GROUP 4 INTERACTIVE VISUALZATION ASSESMENT
+    <code> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT
     </code>
     </p>
 
