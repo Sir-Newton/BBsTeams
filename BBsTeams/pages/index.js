@@ -16,7 +16,7 @@ export default function Home() {
         
                 <h3 >GROUP 4 INTERACTIVE VISUALZATION ASSESMENT</h3>
                 <h4 >  </h4>
-                <h4 >WHAT IS INTERACTIVE VISUALIZATION</h4>
+                <h4 align="center">WHAT IS INTERACTIVE VISUALIZATION</h4>
                 <h4>The technique of developing interactive visualizations to comprehend patterns, variances, and derive useful and meaningful 
     insights from data is known as data visualization. Data visualization is primarily used for data cleansing, exploration, and discovery, as 
     well as for conveying outcomes to Business stakeholders. It can be used as a tool for data pre-processing as well as gaining insights into the data. 
