@@ -46,8 +46,8 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 250px;
-  padding-top: 150px;
+  margin-top: 350px;
+  padding-top: 250px;
 }
 
 @media only screen and (max-width: 700px)
