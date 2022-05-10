@@ -62,8 +62,8 @@ return (
         
     OYEWALE OREDEIN  <br/>
         B1011452  <br/>
-        <a href="./teammates/Oyewale_Bar_Chart/index.html"> Oyewale </a> Bar Chart  <br/>
-            <a href="./BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Oyewale </a> Bar Chart  <br/>
+        <a href="./teammates/Oyewale_Bar_Chart/index.html"> OyewaleBar Chart  </a>  <br/>
+            <a href="./BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Oyewale's Bar Chart </a>  <br/>
 
         LIKHITA VADAPALLY  <br/>
         W9543325  <br/>
