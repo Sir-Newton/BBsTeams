@@ -76,29 +76,37 @@ return (
 
             
             
-            <div class="charts">
-            <a class="chart" href="./Oyewale_Bar_Chart/index.html">
+            <div class="card">
+            <a class="card" href="./Oyewale_Bar_Chart/index.html">
                 <div>
                     <h4 class="chart-title">Bar Chart</h4>
                     <p class="chart-paragraph">Name: OYEWALE OREDEIN</p>
                     <p class="chart-paragraph">Student Number: B1011452</p>
                 </div>
             </a>
-            <a class="chart" href="./GodspowerWodi-B1257513/index.html">
+            <a class="card" href="./GodspowerWodi-B1257513/index.html">
                 <div>
                     <h4 class="chart-title">Circular Bar Chart</h4>
                     <p class="chart-paragraph">Name: LIKHITA VADAPALLY </p>
                     <p class="chart-paragraph">Student Number: W9543325</p>
                 </div>
             </a>
-            <a class="chart" href="./BBsTeams/superstore_DATASET.xlsx">
+            <a class="card" href="./BBsTeams/superstore_DATASET.xlsx">
                 <div>
                     <h4 class="chart-title">Line Graph</h4>
                     <p class="chart-paragraph">Name: GIFT WIGBUDU</p>
                     <p class="chart-paragraph">Student Number: B1153110</p>
                 </div>
             </a>
-           <a class="chart" href="./BBsTeams/superstore_DATASET.xlsx"> Data Set </a>
+           <a class="card" href="./BBsTeams/superstore_DATASET.xlsx"> Data Set </a>
+    
+    
+     <a class="card" href="./https://github.com/Sir-Newton/BBsTeams/blob/16abd063beb56bb8cd30337f776ea003e338e770/BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Link 1 </a>
+     <a class="card" href="./https://github.com/Sir-Newton/BBsTeams/blob/16abd063beb56bb8cd30337f776ea003e338e770/BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Link 2 </a>
+     <a class="card" href="./https://github.com/Sir-Newton/BBsTeams/blob/16abd063beb56bb8cd30337f776ea003e338e770/BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Link 3 </a>
+     <a class="card" href="./https://github.com/Sir-Newton/BBsTeams/blob/16abd063beb56bb8cd30337f776ea003e338e770/BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Link 4 </a>
+     <a class="card" href="./https://github.com/Sir-Newton/BBsTeams/blob/16abd063beb56bb8cd30337f776ea003e338e770/BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Link 5 </a>
+     <a class="card" href="./https://github.com/Sir-Newton/BBsTeams/blob/16abd063beb56bb8cd30337f776ea003e338e770/BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Link 6 </a>
         </div>
         <div class="scrum-link">
             <h3>Want to view the planning process?</h3>
