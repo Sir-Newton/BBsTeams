@@ -17,12 +17,12 @@ return (
     <h2 className="title"  align="center"> INTERACTIVE VISUALIZATION </h2>
     </p>
     
-    <div id="mainbody" class="widecard">  <br/> <br/> <br/> <br/> <br/>
+     
     <p>
     <h2 align="center" className="sky"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </h2>
     <h3 align="center" className="sky"> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h3>
     </p>
-    
+    <div id="mainbody" class="widecard">  <br/> <br/>
     
        <p class="mediumcard"> 
         <h4 align="center" className="sky">WHAT IS INTERACTIVE VISUALIZATION</h4>
@@ -98,7 +98,7 @@ return (
         </div>
         <div className="scrum-link">
             <h3 className="sky" align="center"> SCRUM DOCUMENTATION </h3>
-<p>To view the entire planning process, click the link below</p>
+<p align="center">To view the entire planning process, click the link below</p>
             <a href="https://docs.google.com/spreadsheets/d/1owUIFHjrN1pRiAGGPRhX84ZkpYWh56y_/edit#gid=1392942190">Scrum </a>
         </div>
 <br/><br/><br/>
