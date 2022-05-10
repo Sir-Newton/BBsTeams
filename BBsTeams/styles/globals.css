@@ -82,8 +82,11 @@ code {
     box-shadow: 14px 20px 20px 12px #0702020d;
     border-radius: 10px;
     padding: 15px;
-    width: 20rem;
-    margin-bottom: 2rem;
+    width: 22%; 
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
     color: rgb(95, 103, 250);
     cursor: pointer;
     text-decoration: none;
