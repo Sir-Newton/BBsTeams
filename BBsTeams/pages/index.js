@@ -12,11 +12,11 @@ return (
 
     <main>
         <Header className="title" title="BBs Teams App!" />
-        <p className="description">
+        <p className="description"><code> GROUP 4 INTERACTIVE VISUALZATION ASSESMENT </code></p>
 
-           <code> GROUP 4 INTERACTIVE VISUALZATION ASSESMENT </code>
-        </p>
-        <h4 align="center">WHAT IS INTERACTIVE VISUALIZATION</h4>
+           
+        GROUP 4 INTERACTIVE VISUALZATION ASSESMENT
+        <h4>WHAT IS INTERACTIVE VISUALIZATION</h4>
         <p> 
             The technique of developing interactive visualizations to comprehend patterns, variances, and derive useful and meaningful 
             insights from data is known as data visualization. <br/> Data visualization is primarily used for data cleansing, exploration, and discovery, as 
