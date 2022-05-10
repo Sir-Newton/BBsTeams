@@ -11,17 +11,19 @@ return (
     </Head>
 
     <main>
+    
+     
+   <div class="about-container">
         <div className="title"  align="center"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </div>
         
-    
-   <div class="about-container">
+   
     <p>
-    <h2> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h2>
+    <h2 align="center" className="sky"> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h2>
     </p>
 
      <div id="mainbody" className="widecard">      
-       <p> 
-        <h4 align="center">WHAT IS INTERACTIVE VISUALIZATION</h4>
+       <p class="mediumcard"> 
+        <h4 align="center" className="sky">WHAT IS INTERACTIVE VISUALIZATION</h4>
         
             The technique of developing interactive visualizations to comprehend patterns, variances, and derive useful and meaningful 
             insights from data is known as data visualization. <br/> Data visualization is primarily used for data cleansing, exploration, and discovery, as 
@@ -30,7 +32,7 @@ return (
             we will be discussing business insights that can be drawn from the data gotten from a Superstore Giant in the United States of America.
         </p>
 
-        <p> 
+        <p class="mediumcard"> 
     <h4 className="sky" align="center">THE DATASET</h4>
        The Superstore dataset was gotten from  
             <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final"> Kaggle </a>
@@ -40,7 +42,7 @@ return (
         </p>
 
 
-<p>
+<p class="mediumcard">
         <h4 align="center" className="sky">DATA PREPROCESSING </h4>
         Data pre-processing is a data mining technique that transforms raw data into an understandable format.  <br/> It includes data cleaning, reduction, and transformation.
         The python 3 IDE was employed in the pre-processing of the data.
