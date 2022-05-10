@@ -17,7 +17,7 @@ return (
     <h2 className="title"  align="center"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </h2>
     </p>
     
-    <div id="mainbody">  <br/> <br/> <br/> <br/> <br/>
+    <div id="mainbody" class="widecard">  <br/> <br/> <br/> <br/> <br/>
     <p>
     <h2 align="center" className="sky"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </h2>
     <h3 align="center" className="sky"> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h3>
