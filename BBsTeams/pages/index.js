@@ -15,13 +15,13 @@ return (
         
       
 
-     <div id="mainbody" className="widecard">      
+        
     
                <p className="description" >
     <h2 className="title"  align="center"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </h2>
     </p>
     <h2 align="center" className="sky"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </h2>
-    
+    <div id="mainbody" className="widecard">   
     <p>
     <h3 align="center" className="sky"> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h3>
     </p>
