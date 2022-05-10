@@ -28,7 +28,7 @@ code {
 }
 
 #mainbody {
-font-color = red;
+font-color: blue;
 }
 .container {
   height: 100vh;
