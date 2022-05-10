@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
 return (
-<div className="container" padding="10px">
+<div className="container">
     <Head>
         <title>D3Teams with Links</title>
         <link rel="icon" href="/favicon.ico" />
@@ -18,7 +18,7 @@ return (
         </p>
         <h4 >  </h4>
         <h4 align="center">WHAT IS INTERACTIVE VISUALIZATION</h4>
-        <p width="640"> 
+        <p> 
             The technique of developing interactive visualizations to comprehend patterns, variances, and derive useful and meaningful 
             insights from data is known as data visualization. <br/> Data visualization is primarily used for data cleansing, exploration, and discovery, as 
             well as for conveying outcomes to Business stakeholders. <br/> It can be used as a tool for data pre-processing as well as gaining insights into the data. 
@@ -27,7 +27,7 @@ return (
         </p>
 
         <h4 align="center">THE DATASET</h4>
-        <p width="640">The Superstore dataset was gotten from  
+        <p>The Superstore dataset was gotten from  
             <a href="https://docs.google.com/spreadsheets/d/1vGWkF3vBHJc-kG7uIeD5_A6G43w50ISs/edit?rtpof=true"> Kaggle </a>
             (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final ) and it about a 
             superstore giant looking to understand which product, categories, regions and customer segment they focus on or be wary of. 
