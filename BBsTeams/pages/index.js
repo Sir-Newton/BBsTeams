@@ -12,7 +12,10 @@ return (
 
     <main>
         <Header className="title" title="BBs Teams App!" />
-        <p className="description"><code> GROUP 4 INTERACTIVE VISUALZATION ASSESMENT </code></p>
+        <p className="description">
+    <code>INTERACTIVE VISUALZATION GROUP ASSESMENT
+    </code>
+    </p>
 
            
         GROUP 4 INTERACTIVE VISUALZATION ASSESMENT
