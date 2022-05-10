@@ -42,15 +42,15 @@ Lastly, attributes that won’t be important in the course of our analysis were 
 
   
     <p align="left">
-City => City of residence of of the Customer. <br>
-State => State of residence of the Customer. <br>
-Region => Region where the Customer belong. <br>
-Category => Category of the product ordered. <br>
-Sub-Category => Sub-Category of the product ordered. <br>
-Product Name => Name of the Product. <br>
-Sales => Sales of the Product. <br>
-Quantity => Quantity of the Product. <br>
-Discount => Discount provided. <br>
+City => City of residence of of the Customer. <br/>
+State => State of residence of the Customer.  <br/>
+Region => Region where the Customer belong.  <br/>
+Category => Category of the product ordered.  <br/>
+Sub-Category => Sub-Category of the product ordered.  <br/>
+Product Name => Name of the Product.  <br/>
+Sales => Sales of the Product.  <br/>
+Quantity => Quantity of the Product.  <br/>
+Discount => Discount provided.  <br/>
 Profit => Profit/Loss incurred. <br>
 
 <h4 align="center"> THE CHARTS </h4>
