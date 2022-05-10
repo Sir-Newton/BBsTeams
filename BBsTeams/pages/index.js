@@ -54,18 +54,18 @@ Discount => Discount provided. <br>
 Profit => Profit/Loss incurred. <br>
 
 <h4 align="center"> THE CHARTS </h4>
-STUDENT NAME: (not needed but as a guide)
-OYEWALE OREDEIN
-B1011452
-(link to the chart) (bar chart)
+STUDENT NAME: (not needed but as a guide) <br>
+OYEWALE OREDEIN <br>
+B1011452 <br>
+(link to the chart) (bar chart) <br>
 
 LIKHITA VADAPALLY <br>
-W9543325
-Link to chart (circular bar chart)
+W9543325 <br>
+Link to chart (circular bar chart) <br>
 
-GIFT WIGBUDU
-B1153110
-Link to chart(line graph)
+GIFT WIGBUDU <br>
+B1153110 <br>
+Link to chart(line graph) <br>
 
               </p>
                 
