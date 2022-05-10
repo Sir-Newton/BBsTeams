@@ -14,7 +14,7 @@ return (
         <Header className="title" title="BBs Teams App!" />
         <p className="description">
 
-           <code> GROUP 4 INTERACTIVE VISUALZATION ASSESMENT <code/>
+           <code> GROUP 4 INTERACTIVE VISUALZATION ASSESMENT </code>
         </p>
         <h4 align="center">WHAT IS INTERACTIVE VISUALIZATION</h4>
         <p> 
