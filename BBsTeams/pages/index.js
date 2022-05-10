@@ -13,8 +13,7 @@ return (
     <main>
         <Header className="title" title="INTERACTIVE VISUALIZATION GROUP ASSESMENT" />
         <p className="description">
-    <code> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT
-    </code>
+    <h2> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h2>
     </p>
 
      <div id="mainbody" className="card">      
@@ -66,7 +65,7 @@ return (
         <a href="./teammates/Oyewale_Bar_Chart/index.html"> Oyewale Bar Chart  </a>  <br/>
             <a href="./BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Oyewales Bar Chart </a>  <br/>
     <a href="./BBsTeams/BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Oyewale's Bar Chart </a>  <br/>
-<a href=".//Likhita_Vadapaly_CIRCULAR_Bar_Chart/index.html"> Likhita's Bar Chart </a>  <br/>
+
         LIKHITA VADAPALLY  <br/>
         W9543325  <br/>
         Link to chart (circular bar chart) <br/>
@@ -85,21 +84,21 @@ return (
                     <p class="chart-paragraph">Student Number: B1011452</p>
                 </div>
             </a>
-            <a class="chart" href="./Likhita_Vadapaly_CIRCULAR_Bar_Chart/index.html">
+            <a class="chart" href="./GodspowerWodi-B1257513/index.html">
                 <div>
                     <h4 class="chart-title">Circular Bar Chart</h4>
                     <p class="chart-paragraph">Name: LIKHITA VADAPALLY </p>
                     <p class="chart-paragraph">Student Number: W9543325</p>
                 </div>
             </a>
-            <a class="chart" href="./Rita-B1161681/ica.html">
+            <a class="chart" href="./BBsTeams/superstore_DATASET.xlsx">
                 <div>
                     <h4 class="chart-title">Line Graph</h4>
                     <p class="chart-paragraph">Name: GIFT WIGBUDU</p>
                     <p class="chart-paragraph">Student Number: B1153110</p>
                 </div>
             </a>
-           
+           <a class="chart" href="./BBsTeams/superstore_DATASET.xlsx"> Data Set </a>
         </div>
         <div class="scrum-link">
             <h3>Want to view the planning process?</h3>
