@@ -104,7 +104,7 @@ return (
         <div class="scrum-link">
             <h3>Want to view the planning process?</h3>
             <p>Click on the link below to view the scrum process carried out</p>
-            <a href="https://1drv.ms/x/s!Ahhb1f06IvoagQn9Q4z8ylh7EQrN?e=K9Rtw4">Scrum </a>
+            <a href="https://docs.google.com/spreadsheets/d/1owUIFHjrN1pRiAGGPRhX84ZkpYWh56y_/edit#gid=1392942190">Scrum </a>
         </div>
 <br/><br/><br/>
 
