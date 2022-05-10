@@ -11,8 +11,11 @@ return (
     </Head>
 
     <main>
-        <Header className="title"  align="center" title="INTERACTIVE VISUALIZATION GROUP ASSESMENT" />
-        <p>
+        <div className="title"  align="center"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </div>
+        
+    
+   <div class="about-container">
+    <p>
     <h2> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h2>
     </p>
 
@@ -58,7 +61,7 @@ return (
 
    
             Find the preprocessed dataset at <a href="https://drive.google.com/file/d/1vGWkF3vBHJc-kG7uIeD5_A6G43w50ISs/view"> Superstore DATASET </a> <br/>
-                
+         </div>       
         <h4 align="center" className="sky"> THE CHARTS </h4>
     <p align="left">  
                   
