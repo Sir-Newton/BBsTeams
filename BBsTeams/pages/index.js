@@ -11,8 +11,8 @@ return (
     </Head>
 
     <main>
-        <Header title="BBs Teams App!" />
-        <p className="description" >
+        <Header className="description" title="BBs Teams App!" />
+        <p className="description">
 
             GROUP 4 INTERACTIVE VISUALZATION ASSESMENT
         </p>
@@ -42,7 +42,7 @@ return (
         Lastly, attributes that won’t be important in the course of our analysis were removed leaving the important features. <br/> For example, the attribute ‘Country’ was dropped since it is redundant with 100% exact same values of "United States" for all records. 'Postal Code' is also dropped since this attribute is less important towards the profit-centric task. The list of attributes/feature that are important for our analysis are as follows:
 
 
-        <p align="left">
+        
             City => City of residence of of the Customer. <br/>
             State => State of residence of the Customer.  <br/>
             Region => Region where the Customer belong.  <br/>
@@ -53,7 +53,7 @@ return (
             Quantity => Quantity of the Product.  <br/>
             Discount => Discount provided.  <br/>
             Profit => Profit/Loss incurred. <br/>
-</p>
+
         <h4 align="center"> THE CHARTS </h4>
     <p align="left">   
     YEWALE OREDEIN  <br/>
