@@ -58,8 +58,9 @@ return (
             Profit => Profit/Loss incurred. <br/>
 
         <h4 align="center"> THE CHARTS </h4>
-    <p align="left">   
-    YEWALE OREDEIN  <br/>
+    <p align="left">  
+        <a href="./BBsTeams/teammates/Oyewale - Bar-chart/index.html"> Oyewale </a>
+    OYEWALE OREDEIN  <br/>
         B1011452  <br/>
         (link to the chart) (bar chart)  <br/>
 
@@ -71,6 +72,50 @@ return (
         B1153110  <br/>
         Link to chart(line graph)  <br/>
 
+            
+            
+            <div class="charts">
+            <a class="chart" href="./Stanley-B1204687/ICA.html">
+                <div>
+                    <h4 class="chart-title">Lollipop Chart</h4>
+                    <p class="chart-paragraph">Name: Stanley Osondu</p>
+                    <p class="chart-paragraph">Student Number: B1161681</p>
+                </div>
+            </a>
+            <a class="chart" href="./GodspowerWodi-B1257513/index.html">
+                <div>
+                    <h4 class="chart-title">Area Chart</h4>
+                    <p class="chart-paragraph">Name: Godspower Wodi</p>
+                    <p class="chart-paragraph">Student Number: B1257513</p>
+                </div>
+            </a>
+            <a class="chart" href="./Rita-B1161681/ica.html">
+                <div>
+                    <h4 class="chart-title">Bar/Pie Chart</h4>
+                    <p class="chart-paragraph">Name: Rita Ozoh</p>
+                    <p class="chart-paragraph">Student Number: B1161681</p>
+                </div>
+            </a>
+            <a class="chart" href="./Olaide-A0137168/index.html">
+                <div>
+                    <h4 class="chart-title">Chained Chart</h4>
+                    <p class="chart-paragraph">Name: Olaide Olanipekun</p>
+                    <p class="chart-paragraph">Student Number: A0137168</p>
+                </div>
+            </a>
+            <a class="chart" href="./Seyi-A0308843/myica.html">
+                <div>
+                    <h4 class="chart-title">Connected Scatter plot</h4>
+                    <p class="chart-paragraph">Name: Oluseyi Olukola</p>
+                    <p class="chart-paragraph">Student Number: A0308843</p>
+                </div>
+            </a>
+        </div>
+        <div class="scrum-link">
+            <h3>Want to view the planning process?</h3>
+            <p>Click on the link below to view the scrum process carried out</p>
+            <a href="https://1drv.ms/x/s!Ahhb1f06IvoagQn9Q4z8ylh7EQrN?e=K9Rtw4">Scrum </a>
+        </div>
 <br/><br/><br/>
 
 
