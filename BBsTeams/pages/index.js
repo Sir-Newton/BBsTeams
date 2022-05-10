@@ -59,10 +59,11 @@ return (
 
         <h4 align="center"> THE CHARTS </h4>
     <p align="left">  
-        <a href="./teammates/Oyewale_Bar_Chart/index.html"> Oyewale </a>
+        
     OYEWALE OREDEIN  <br/>
         B1011452  <br/>
-        (link to the chart) (bar chart)  <br/>
+        <a href="./teammates/Oyewale_Bar_Chart/index.html"> Oyewale </a> Bar Chart  <br/>
+            <a href="./BBsTeams/teammates/Oyewale_Bar_Chart/index.html"> Oyewale </a> Bar Chart  <br/>
 
         LIKHITA VADAPALLY  <br/>
         W9543325  <br/>
