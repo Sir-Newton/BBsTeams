@@ -69,7 +69,7 @@ return (
                     <p class="chart-paragraph">Student Number: B1011452</p>
                 </div>
             </a>
-            <a class="card" href="./GodspowerWodi-B1257513/index.html">
+            <a class="card" href="https://likhitavadapalycircularbarchart.netlify.app/">
                 <div>
                     <h4 class="chart-title">Circular Bar Chart</h4>
                     <p class="chart-paragraph">Name: LIKHITA VADAPALLY </p>
