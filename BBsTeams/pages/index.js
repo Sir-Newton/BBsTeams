@@ -16,7 +16,7 @@ return (
     <h2> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h2>
     </p>
 
-     <div id="mainbody" className="card">      
+     <div id="mainbody" className="widecard">      
        
         <h4 align="center">WHAT IS INTERACTIVE VISUALIZATION</h4>
         <p> 
@@ -63,7 +63,7 @@ return (
     <p align="left">  
                   
             
-            <div class="card">
+            <div class="widecard">
             <a className="card" href="https://oyewalesbarchart.netlify.app">
                 <div>
                     <h4 class="chart-title">Bar Chart</h4>
