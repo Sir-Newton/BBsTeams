@@ -28,7 +28,10 @@ code {
 }
 
 #mainbody {
-font-color: blue !important;
+padding: 10px;
+    border: 2px solid gray;
+    box-shadow: -1px 2px 5px grey,  1px -2px 3px;
+    border-radius: 10px;
 }
 .container {
   height: 100vh;
@@ -37,9 +40,4 @@ font-color: blue !important;
   justify-content: center;
   align-items: center;
 }
-#chart_container {
-    padding: 10px;
-    border: 2px solid gray;
-    box-shadow: -1px 2px 5px grey,  1px -2px 3px;
-    border-radius: 10px;
-}
+    
