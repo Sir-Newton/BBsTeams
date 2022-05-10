@@ -18,9 +18,9 @@ export default function Home() {
                 <h4 >  </h4>
                 <h4 align="center">WHAT IS INTERACTIVE VISUALIZATION</h4>
                 <p width="640"> The technique of developing interactive visualizations to comprehend patterns, variances, and derive useful and meaningful 
-    insights from data is known as data visualization. Data visualization is primarily used for data cleansing, exploration, and discovery, as 
-    well as for conveying outcomes to Business stakeholders. It can be used as a tool for data pre-processing as well as gaining insights into the data. 
-    The key to effective communication of outcomes is having the correct selection of visuals for diverse data types and business scenarios. In this project, 
+    insights from data is known as data visualization. <br/> Data visualization is primarily used for data cleansing, exploration, and discovery, as 
+    well as for conveying outcomes to Business stakeholders. <br/> It can be used as a tool for data pre-processing as well as gaining insights into the data. 
+    The key to effective communication of outcomes is having the correct selection of visuals for diverse data types and business scenarios. <br/> In this project, 
     we will be discussing business insights that can be drawn from the data gotten from a Superstore Giant in the United States of America.
     </p>
     
@@ -38,7 +38,7 @@ export default function Home() {
 Data pre-processing is a data mining technique that transforms raw data into an understandable format.  <br/> It includes data cleaning, reduction, and transformation.
 The python 3 IDE was employed in the pre-processing of the data.
 The first step was to input and load the dataset into python after which the null values within the dataset was checked but none was found.  <br/> For the next step, unique () is used to check qualitative data for noises of impossible values such as incorrect misspelt data entries, or errors of inconsistent data such as not comparable numerical measurement formats and data types.
-Lastly, attributes that won’t be important in the course of our analysis were removed leaving the important features, For example, the attribute ‘Country’ was dropped since it is redundant with 100% exact same values of "United States" for all records. 'Postal Code' is also dropped since this attribute is less important towards the profit-centric task. The list of attributes/feature that are important for our analysis are as follows:
+Lastly, attributes that won’t be important in the course of our analysis were removed leaving the important features. <br/> For example, the attribute ‘Country’ was dropped since it is redundant with 100% exact same values of "United States" for all records. 'Postal Code' is also dropped since this attribute is less important towards the profit-centric task. The list of attributes/feature that are important for our analysis are as follows:
 
   
     <p align="left">
