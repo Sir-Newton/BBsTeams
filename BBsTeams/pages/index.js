@@ -11,7 +11,7 @@ return (
     </Head>
 
     <main>
-        <Header className="description" title="BBs Teams App!" />
+        <Header className="title" title="BBs Teams App!" />
         <p className="description">
 
             GROUP 4 INTERACTIVE VISUALZATION ASSESMENT
