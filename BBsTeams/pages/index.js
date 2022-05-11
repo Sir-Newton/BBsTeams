@@ -89,7 +89,7 @@ return (
             </a>
             <a className="card" href="https://giftwigbuduslinechart.netlify.app/">
                 <div>
-                    <h4 class="chart-title">Line Graph</h4>
+                    <h4 class="chart-title">Area Chart</h4>
                     <p class="chart-paragraph">Name: GIFT WIGBUDU</p>
                     <p class="chart-paragraph">Student Number: B1153110</p>
                 </div>
