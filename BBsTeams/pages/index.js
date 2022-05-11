@@ -14,7 +14,7 @@ return (
    <div class="about-container">
     
      <p className="description"><br/> <br/><br/><br/> <br/><br/>
-    <h2 className="title"  align="center"> INTERACTIVE VISUALIZATION </h2>
+    <h2 className="darksky"  align="center"> INTERACTIVE VISUALIZATION </h2>
     </p>
     
      
