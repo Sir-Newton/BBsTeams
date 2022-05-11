@@ -100,7 +100,7 @@ return (
             <h3 className="sky" align="center"> SCRUM DOCUMENTATION </h3>
 <p align="center">To view the entire planning process, click the link below </p>
            <p align="center">
-               <a href="https://docs.google.com/spreadsheets/d/1owUIFHjrN1pRiAGGPRhX84ZkpYWh56y_/edit#gid=1392942190">Scrum </a>
+               <a href="https://docs.google.com/spreadsheets/d/1owUIFHjrN1pRiAGGPRhX84ZkpYWh56y_/edit?usp=sharing&ouid=109080721880526451292&rtpof=true&sd=true">Scrum </a>
     </p>
         </div>
 <br/><br/><br/>
