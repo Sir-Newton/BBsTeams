@@ -114,6 +114,9 @@ code {
 .sky {
  color: rgb(105, 163, 250);
 }
+.darksky {
+    color: darkblue;
+}
 .chart-paragraph {
   color: rgb(128, 0, 128);
 }
